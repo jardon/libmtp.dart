@@ -3,3 +3,5 @@ description: A library for interacting with MTP-based device connections.
 repository: https://github.com/jardon/libmtp.dart
 environment:
   sdk: ^3.11.0
+dependencies:
+  ffigen: ^20.1.1
