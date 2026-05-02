@@ -4,4 +4,6 @@ repository: https://github.com/jardon/libmtp.dart
 environment:
   sdk: ^3.11.0
 dependencies:
+  ffi: ^2.2.0
+dev_dependencies:
   ffigen: ^20.1.1
