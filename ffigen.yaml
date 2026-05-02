@@ -1,0 +1,6 @@
+name: LibMTPBindings
+output: 'lib/src/libmtp_bindings.dart'
+headers:
+  entry-points:
+    - '/usr/include/libmtp.h'
+silence-enum-warning: true 
